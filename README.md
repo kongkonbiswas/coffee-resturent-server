@@ -16,5 +16,6 @@ CSS,
 Firebase,
 Google Maps,
 Alan AI
+and so on
 
 ---Thank You---
